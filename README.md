@@ -11,11 +11,6 @@ For a full list of my publications, visit my [**Google Scholar**](https://schola
 
 <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); text-align: center;">
     <p>
-        <a href="https://renyunfan.cn" style="text-decoration: none;">
-            <img src="./misc/page.png" alt="示例图片" style="width: 100%; max-width: 300px; margin-top: 10px; border-radius: 8px;"/>
-        </a>
-    </p>
-    <p>
         <a href="https://renyunfan.cn" style="text-decoration: none; color: #007BFF;">Click for more information at Yunfan's personal page</a>
     </p>
 </div>
